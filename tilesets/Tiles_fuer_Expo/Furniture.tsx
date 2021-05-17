@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.4" tiledversion="1.4.3" name="Furniture" tilewidth="154" tileheight="74" tilecount="5" columns="0">
+<tileset version="1.4" tiledversion="1.4.3" name="Furniture" tilewidth="300" tileheight="123" tilecount="6" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
   <image width="31" height="35" source="Sessel_1.png"/>
@@ -15,5 +15,8 @@
  </tile>
  <tile id="7">
   <image width="92" height="74" source="Screen - Blank.png"/>
+ </tile>
+ <tile id="8">
+  <image width="300" height="123" source="Infosesk_simpel - Copy.png"/>
  </tile>
 </tileset>
