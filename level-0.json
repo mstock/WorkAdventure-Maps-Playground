@@ -226,15 +226,15 @@
          "name":"Indoor-Walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":62,
          "x":0,
          "y":0
         }, 
         {
          "draworder":"topdown",
-         "id":50,
-         "name":"Fountain",
+         "id":54,
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
@@ -242,7 +242,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":54,
+ "nextlayerid":55,
  "nextobjectid":33,
  "orientation":"orthogonal",
  "renderorder":"right-down",
